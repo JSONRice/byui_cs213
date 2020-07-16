@@ -20,7 +20,7 @@ See: [IPv4 vs IPv6](https://www.juniper.net/us/en/products-services/what-is/ipv4
 
 ## Stylesheets
 
-Precedence of stylesheets (external vs external)
+Precedence of stylesheets (internal vs external)
 
 ## Client Side
 
